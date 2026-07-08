@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+city = input("Enter your city: ")
+subject = input("Enter your favorite subject: ")
+print("                         Personal Information")
+print(f"My name is {name}. I am {age} years old. I live in {city}, and my favorite subject is {subject}.")

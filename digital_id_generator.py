@@ -1,0 +1,8 @@
+name = input("Enter Student Name: ")
+roll_no = input("Enter Roll Number: ")
+department = input("Enter Department: ")
+print("\n===== STUDENT ID CARD =====")
+print(f"Name       : {name}")
+print(f"Roll No    : {roll_no}")
+print(f"Department : {department}")
+print("===========================")
