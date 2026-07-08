@@ -111,6 +111,7 @@ Everything else at the root level is an individual practice script.
 - [Python.org Official Tutorial](https://docs.python.org/3/tutorial/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) *(free online!)*
 - [W3Schools Python](https://www.w3schools.com/python/)
+- [Summer Training]
 
 ---
 
